@@ -1,14 +1,16 @@
 <div align="center">
-
-<img src="img.jpg" alt="Ashdeep Singh Profile" width="200" style="border-radius: 5px; border: 3px solid #9a0000; padding: 5px; background-color: #121212;"/>
-
-# Ashdeep Singh
-
 <a href="https://s1i2n3g4h5.github.io/SST_WEBDEV101_portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-9a0000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
 </a>
 <a href="https://linkedin.com/in/ashdeep-singh-6762391b1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+&nbsp;    
+<img src="img.jpg" alt="Ashdeep Singh Profile" width="200" style="border-radius: 5px; border: 3px solid #9a0000; padding: 5px; background-color: #121212;"/>
+&nbsp;    
+
+<a href="https://inventory-login.hashnode.dev/">
+    <img src="https://img.shields.io/badge/My%20Blog-purple?style=for-the-badge" alt="Blog Badge"/>
 </a>
 <a href="mailto:singh.ashdeep.2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
