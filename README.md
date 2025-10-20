@@ -487,7 +487,7 @@ I'm always open to:
 <br>
 
  <p align="center">
-  <img src="https://img.shields.io/badge/One%20Life-Making%20it%20Legendary-ff69b4?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/One%20Life-Making%20it%20Legendary-e53123?style=for-the-badge&logo=cosmos">
 </p>
    
 
