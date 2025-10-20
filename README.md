@@ -34,7 +34,10 @@
 
 </div>
 
----
+
+
+<img width="100%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" />
+
 
 <br>
 
@@ -87,7 +90,7 @@ class WhoAmI:
 
 <br>
 
-<details open>
+<details>
 <summary><b>💹 QuantLab: Trading Intelligence Suite</b></summary>
 
 <br>
@@ -152,9 +155,14 @@ A complete algorithmic trading ecosystem featuring:
 <br><br>
 
 <div>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemgwcDJybXgxYjY5bjJwcDNreXkzNG0wdzE0Z3lvNXo1Y2p2MWRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/giphy.gif" width="100%">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemgwcDJybXgxYjY5bjJwcDNreXkzNG0wdzE0Z3lvNXo1Y2p2MWRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/giphy.gif" width="100%">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemgwcDJybXgxYjY5bjJwcDNreXkzNG0wdzE0Z3lvNXo1Y2p2MWRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/giphy.gif" width="100%" height="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="400">
+
+
+
 </div>
 
 </td>
@@ -163,7 +171,7 @@ A complete algorithmic trading ecosystem featuring:
 
 <br>
 
-🔗 *[Explore the trading projects in repositories →]*
+🔗 *[Explore the trading projects in repositories →](https://gitlab.com/professional-projects8451644)*
 
 </details>
 
@@ -445,131 +453,22 @@ IoT data collection system featuring:
 
 ---
 
-<br>
-
-## 🛠️ My Toolbox
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="400">
-</div>
-
-<br>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🎨 Core Stack
-
-<br>
-
-```python
-primary_weapons = {
-    "languages": ["Python", "C++", "C#"],
-    "ml_frameworks": [
-        "TensorFlow", 
-        "PyTorch", 
-        "Scikit-learn"
-    ],
-    "cv_tools": ["OpenCV", "YOLO", "MTCNN"],
-    "nlp_stack": [
-        "spaCy", 
-        "LangChain", 
-        "Transformers"
-    ],
-    "data": [
-        "Pandas", 
-        "NumPy", 
-        "SQL", 
-        "MongoDB", 
-        "Redis"
-    ],
-    "trading": [
-        "PineScript", 
-        "NinjaScript", 
-        "KiteConnect"
-    ]
-}
-```
-
-<br>
-
-#### Skill Levels
-
-```
-🧠 AI/ML Engineering   
-💹 Algo Trading        
-👁️ Computer Vision    
-📊 Data Engineering 
-☁️ Cloud & DevOps  
-🌐 Web Development
-```
-
-</td>
-<td valign="top" width="50%">
-
-### 🚀 Deployment Arsenal
-
-<br>
-
-```python
-deployment_tools = {
-    "web": [
-        "Flask", 
-        "FastAPI", 
-        "Streamlit"
-    ],
-    "cloud": ["AWS", "GCP"],
-    "containers": [
-        "Docker", 
-        "Kubernetes"
-    ],
-    "automation": [
-        "APScheduler", 
-        "Celery"
-    ],
-    "version_control": [
-        "Git", 
-        "GitLab CI/CD"
-    ]
-}
-```
-
-<br>
-
-#### Technologies I Love
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br><br>
-
----
 
 ## 🤝 Let's Build Something Epic
 
 <br>
 
-<div align="center">
+<table border="0">
+  
+<td>
+  <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThhN2VwMGQzNm14aHQ2MnU0cTh4cnkwYjZyeTd6d3dzN2p3MWV5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UTek0q3N8osh8agH4Y/giphy.gif" width="200">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThhN2VwMGQzNm14aHQ2MnU0cTh4cnkwYjZyeTd6d3dzN2p3MWV5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UTek0q3N8osh8agH4Y/giphy.gif" width="400" height="200">
 
 </div>
+</td>
 
+<td>
 <br>
 
 I'm always open to:
@@ -582,11 +481,14 @@ I'm always open to:
 - 💡 **Technical discussions** about trading, ML deployment, or system architecture
 
 <br>
-
----
-
-<br>
-
-*"One Life, Make it Legendary"*
+</td>
+</table>
 
 <br>
+
+ <p align="center">
+  <img src="https://img.shields.io/badge/One%20Life-Making%20it%20Legendary-ff69b4?style=for-the-badge&logo=github">
+</p>
+   
+
+   
