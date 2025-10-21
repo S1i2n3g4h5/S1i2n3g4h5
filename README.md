@@ -389,9 +389,6 @@ IoT data collection system featuring:
 
 <br>
 
-<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="180">
-
-<br>
 
 - 🚗 Vehicle Detection System
 - 🛡️ Industrial Safety Monitor
@@ -410,9 +407,6 @@ IoT data collection system featuring:
 
 <br>
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="180">
-
-<br>
 
 - 🏗️ Cement Strength Predictor
 - 🔍 Insurance Fraud Detector
@@ -428,10 +422,6 @@ IoT data collection system featuring:
 <td width="33%" valign="top">
 
 #### 🤖 GenAI & NLP
-
-<br>
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180">
 
 <br>
 
@@ -475,10 +465,9 @@ I'm always open to:
 
 <br>
 
-- 🚀 Innovative projects in **FinTech, AI/ML, Computer Vision**
+- 🚀 Innovative projects in **Data Science, AI/ML, FinTech**
 - 💼 **Freelance opportunities** or contract work
 - 🤝 **Open-source collaborations** that push boundaries
-- 💡 **Technical discussions** about trading, ML deployment, or system architecture
 
 <br>
 </td>
