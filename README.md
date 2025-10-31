@@ -35,9 +35,7 @@
 </div>
 
 
-
-<img width="100%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" />
-
+---
 
 <br>
 
@@ -67,17 +65,6 @@ class WhoAmI:
 <br>
 
 > **💭 My Belief:**  True mastery comes from building systems that grow while you sleep, and training a mind that can reason at machine-level precision.
-
-</td>
-<td width="45%" valign="top">
-
-<br>
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN0NjV5aXdmZXpzb284YjNqcjBmM2JhdG0zMmF3dmxpOG9rMWk3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hx21Htt6JXSG4/giphy.gif" alt="Profile" width="300"/>
-
-
-</td>
-</tr>
 </table>
 
 <br><br>
