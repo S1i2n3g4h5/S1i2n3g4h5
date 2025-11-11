@@ -10,7 +10,8 @@
 <td width="40%">
 
 <!-- Add your header image here -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmo4aHIxMDJkOWV6enp3NDNweWRrbWJwdGN2aWRrM2RkeWg3bXZkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IcpFUnxQ4F8tYSuE8u/giphy.gif" alt="Profile" width="250" style="border-radius: 10px;"/>
+<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmo4aHIxMDJkOWV6enp3NDNweWRrbWJwdGN2aWRrM2RkeWg3bXZkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IcpFUnxQ4F8tYSuE8u/giphy.gif" alt="Profile" width="250" style="border-radius: 10px;"/> -->
+<img src="img.jpg" width="350" height="350" style="border-radius:10px;" alt="zoASHro" />
 
 </td>
 </tr>
