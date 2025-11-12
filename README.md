@@ -85,7 +85,7 @@ class WhoAmI:
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td >
 
 > *"The system that never sleeps, never panics, and always learns"*
 
@@ -137,23 +137,25 @@ A complete algorithmic trading ecosystem featuring:
 - ✅ Mobile-first control via Telegram
 - ✅ Modular design: Add strategies like plugins
 
+
 </td>
-<td width="35%" valign="top">
+<td width="15%" valign="top">
 
 <br><br>
 
-<div>
+ <div>
 
-
+<!-- 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemgwcDJybXgxYjY5bjJwcDNreXkzNG0wdzE0Z3lvNXo1Y2p2MWRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/giphy.gif" width="100%" height="100%">
-
+-->
 <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="400">
 
 
 
 </div>
 
-</td>
+ </td> 
+
 </tr>
 </table>
 
